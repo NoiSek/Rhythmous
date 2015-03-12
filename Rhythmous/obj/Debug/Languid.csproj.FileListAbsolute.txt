@@ -1,0 +1,6 @@
+D:\Projects\Languid\Languid\bin\Languid.dll.config
+D:\Projects\Languid\Languid\bin\Languid.dll
+D:\Projects\Languid\Languid\bin\Languid.pdb
+D:\Projects\Languid\Languid\obj\Debug\Languid.dll
+D:\Projects\Languid\Languid\obj\Debug\Languid.pdb
+D:\Projects\Languid\Languid\obj\Debug\Languid.csprojResolveAssemblyReference.cache

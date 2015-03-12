@@ -1,0 +1,12 @@
+D:\Projects\Languid\Languid\bin\Rhythmous.dll.config
+D:\Projects\Languid\Languid\bin\Rhythmous.dll
+D:\Projects\Languid\Languid\bin\Rhythmous.pdb
+D:\Projects\Languid\Languid\obj\Debug\Rhythmous.csprojResolveAssemblyReference.cache
+D:\Projects\Languid\Languid\obj\Debug\Rhythmous.dll
+D:\Projects\Languid\Languid\obj\Debug\Rhythmous.pdb
+D:\Projects\Rhythmous\Rhythmous\obj\Debug\Rhythmous.csprojResolveAssemblyReference.cache
+D:\Projects\Rhythmous\Rhythmous\obj\Debug\Rhythmous.dll
+D:\Projects\Rhythmous\Rhythmous\obj\Debug\Rhythmous.pdb
+D:\Projects\Rhythmous\Rhythmous\bin\Rhythmous.dll.config
+D:\Projects\Rhythmous\Rhythmous\bin\Rhythmous.dll
+D:\Projects\Rhythmous\Rhythmous\bin\Rhythmous.pdb
